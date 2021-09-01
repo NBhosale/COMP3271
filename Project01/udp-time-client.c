@@ -65,4 +65,4 @@ int main(int argc, char *argv[])
 
 	exit(0);
 	
-} /* End of time client program */
+} /* End of time client Program */
